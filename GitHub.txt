@@ -1,0 +1,8 @@
+GitHub is a Git repository hosting service that provides a web-based graphical interface. It is the world’s largest coding community. Putting a code or a project into GitHub brings it increased, widespread exposure. Programmers can find source codes in many different languages and use the command-line interface, Git, to make and keep track of any changes.
+
+GitHub helps every team member work together on a project from any location while facilitating collaboration. You can also review previous versions created at an earlier point in time.
+Social coding: GitHub makes it easy to find and collaborate with other developers on open-source projects. Users can follow projects, contribute code, and provide feedback on others' work.
+Issue tracking: GitHub provides a robust issue tracking system that allows developers to report bugs, suggest new features, and track progress on specific tasks.
+Pull requests: GitHub allows developers to submit changes to a project for review using pull requests. This enables other team members to review the code and suggest changes before it is merged into the main codebase.
+Continuous integration: GitHub includes built-in support for continuous integration and deployment, making it easy to automatically test and deploy changes to a project.
+Project management: GitHub provides tools for project management, including kanban boards and project milestones, making it easy to track progress and prioritize tasks.
