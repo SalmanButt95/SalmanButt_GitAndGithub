@@ -4,3 +4,11 @@ Distributed architecture: Git operates as a distributed system, meaning that eac
 Branching and merging: Git allows developers to create multiple branches of their codebase, each with its own set of changes. These branches can be merged back into the main codebase once the changes have been reviewed and approved.
 Commit history: Git maintains a detailed history of all changes made to the codebase, making it easy to track down bugs and roll back changes if necessary.
 Staging area: Git provides a staging area where developers can review and select which changes they want to include in their next commit. This helps to ensure that only relevant changes are included in each commit.
+
+
+
+CONTRIBUTOR IS ADDING CHANGING TO OVER HERE!
+
+
+
+CONTRIBUTAOR IS ADDING MORE LINES UNDER MASTER BRANCH!!! THERE SHOULD BE ERROR
